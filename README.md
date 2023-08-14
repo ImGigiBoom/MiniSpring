@@ -1,5 +1,5 @@
 # MiniSpring
-实现一个小的Spring框架
+实现一个小的Spring框架, 也可前往个人博客查看：[http://zjjhzg99.top/article/18](http://zjjhzg99.top/article/18)
 ## 手写Spring（一）----启动以及扫描逻辑
 
 **项目架构（暂时）**
